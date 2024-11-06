@@ -1,6 +1,6 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-## Principales Objetivos de Aprendizaje para esta Clase
+
+## Principales Objetivos de Aprendizaje 
 
 -Conocer los distintos tipos de datos
 -Identificar las falencias podemos encontrar en los datos
